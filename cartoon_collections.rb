@@ -1,5 +1,6 @@
 def roll_call_dwarves(name)
-  dwarves_name = []
+  dwarves_name = ["Doc", "Dopey", "Bashful", "Grumpy"]
+  puts dwarves_name.
 end
 
 def summon_captain_planet# code an argument here
