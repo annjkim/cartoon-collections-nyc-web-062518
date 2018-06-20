@@ -1,8 +1,8 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
-def roll_call_dwarves(name)
+def roll_call_dwarves(array)
   i = 0
-    puts "#{i + 1}. #{name[i]}" 
+    puts "#{i + 1}. #{array[i]}" 
     i += 1
   end
 end
